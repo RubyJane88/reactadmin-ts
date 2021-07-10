@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Harry Potter and the Philosopher’s Stone",
+      "body": "Escape to Hogwarts with the unmissable series that has sparked a lifelong reading journey for children and families all over the world. The magic starts here.",
+      "publishedAt": "04-23-1997"
+    },
+    {
+      "id": "2",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "body": "Harry Potter's summer has included the worst birthday ever, doomy warnings from a house-elf called Dobby, and rescue from the Dursleys by his friend Ron Weasley in a magical flying car! Back at Hogwarts School of Witchcraft and Wizardry for his second year, Harry hears strange whispers echo through empty corridors - and then the attacks start.",
+      "publishedAt": "01-27-1998"
+    },
+    {
+      "id": "3",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "body": "Harry Potter, along with his best friends, Ron and Hermione, is about to start his third year at Hogwarts School of Witch",
+      "publishedAt": "12-27-1999"
+    },
+    {
+      "id": "4",
+      "title": "Harry Potter and the Goblet of Fire",
+      "body": "The Triwizard Tournament is to be held at Hogwarts. Only wizards who are over seventeen are allowed to enter - but that doesn't stop Harry dreaming that he will win the competition. Then at Hallowe'en, when the Goblet of Fire makes its selection, Harry is amazed to find his name is one of those that the magical cup picks out.",
+      "publishedAt": "07-23-2000"
+    },
+    {
+      "id": "5",
+      "title": "Harry Potter and the Order of the Phoenix",
+      "body": "Dark times have come to Hogwarts. After the Dementors' attack on his cousin Dudley, Harry Potter knows that Voldemort will stop at nothing to find him. There are many who deny the Dark Lord's return, but Harry is not alone: a secret order gathers at Grimmauld Place to fight against the Dark forces.",
+      "publishedAt": "11-18-2003"
+    },
+    {
+      "id": "6",
+      "title": "Harry Potter and the Half-Blood Prince",
+      "body": "'In a brief statement on Friday night, Minister for Magic Cornelius Fudge confirmed that He Who Must Not Be Named has returned to this country and is once more active. \"It is with great regret that I must confirm that the wizard styling himself Lord - well, you know who I mean - is alive and among us again,\" said Fudge.'",
+      "publishedAt": "10-14-2005"
+    },
+    {
+      "id": "7",
+      "title": "Harry Potter and the Deathly Hallows",
+      "body": "As he climbs into the sidecar of Hagrid's motorbike and takes to the skies, leaving Privet Drive for the last time, Harry Potter knows that Lord Voldemort and the Death Eaters are not far behind. ",
+      "publishedAt": "04-11-2007"
+    },
+    {
+      "title": "The Harry Potter Origins 2",
+      "body": "Where it all began",
+      "publishedAt": "2021-07-10",
+      "id": "9DasALV"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Jane Doe",
+      "email": "janedoe@example.com"
+    },
+    {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "id": "0Djj-PN"
+    }
+  ]
+}
